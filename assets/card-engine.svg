@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="170" viewBox="0 0 410 170">
+  <rect x="0.5" y="0.5" width="409" height="169" rx="14" fill="#15110d" stroke="#2c241b"/>
+  <rect x="0.5" y="0.5" width="4" height="169" rx="2" fill="#d9ae78"/>
+  <text x="26" y="36" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" letter-spacing="2" fill="#d9ae78">PYTHON · APACHE-2.0</text>
+  <text x="26" y="72" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#ece4d8">Documental engine ↗</text>
+  <text x="26" y="102" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#a89a87">Auditable AI answers over documents:</text>
+  <text x="26" y="122" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#a89a87">every statement linked to its source,</text>
+  <text x="26" y="142" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#a89a87">every gap recorded.</text>
+</svg>
